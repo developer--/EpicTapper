@@ -48,6 +48,7 @@
                 android:layout_height="30dp" />
 
             <TextView
+                android:id="@+id/appleText"
                 android:textColor="@android:color/white"
                 android:text="0"
                 android:layout_width="wrap_content"
