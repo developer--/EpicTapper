@@ -6,7 +6,7 @@
     android:background="@android:color/black"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.awesomething.epictapper.MainActivity">
+    tools:context="com.awesomething.epictapper.ui.MainActivity">
 
     <LinearLayout
         android:layout_marginTop="20dp"
